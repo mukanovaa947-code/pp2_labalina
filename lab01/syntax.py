@@ -1,3 +1,4 @@
+#1
 if 5 > 2:
   print("Five is greater than two!")
 
@@ -5,14 +6,14 @@ if 5 > 2:
  print("Five is greater than two!") 
 if 5 > 2:
         print("Five is greater than two!") 
-
+#2
 x = 5
 y = "Hello, World!"
 
 print(x)
 print(y)
 
-#This is a comment.
+#This is a comment.3
 print("Hello, World!")
 
 print("Python is fun!")
@@ -21,4 +22,6 @@ print("Hello World!")
 print("Have a good day.")
 print("Learning Python is fun!")
 
-print("Hello"); print("How are you?"); print("Bye bye!")
+print("Hello"); 
+print("How are you?"); 
+print("Bye bye!")
