@@ -6,7 +6,7 @@ print(x)
 print(y)
 
 #2
-x = 4       # x is of type int
+x = 4       # x is of type intt
 x = "Sally" # x is now of type str
 print(x)
 

@@ -3,7 +3,7 @@ x = 5
 print(type(x))
 
 #2
-x = "Hello World"
+x = "Hello World!"
 
 #display x:
 print(x)
