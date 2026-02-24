@@ -1,10 +1,10 @@
-def squares(a, b):
-    for i in range(a, b + 1):
-        yield i * i
+def even_numbers(n):
+    for i in range(0, n + 1):
+        if i % 2 == 0:
+            yield i
 
 
-a = int(input("Enter start (a): "))
-b = int(input("Enter end (b): "))
 
-for value in squares(a, b):
-    print(value)
+n = int(input("Enter a number: "))
+
+print(",".join(str(num) for num in even_numbers(n)))
